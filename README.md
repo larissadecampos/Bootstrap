@@ -2,7 +2,7 @@
 
 Primeira versão de uma Landing Page de página única.
 
-# Tecnologias utilizadas 🚀
+# Tecnologias utilizadas📚
  - HTML <a></a>
  - Bootstrap
  - Java Script
